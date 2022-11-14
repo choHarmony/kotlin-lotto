@@ -5,7 +5,7 @@
 2. 로또 번호 고르기
 3. 구매한 로또의 개수만큼 로또 번호 배열 출력하기  
   3-1 ) `Randoms.pickUniqueNumbersInRange`를 통해 로또 번호 배열 생성하기  
-4. 당첨 번호 입력하기
+4. 당첨 번호 입력하기  
   4-1 ) 입력한 번호 중 **범위를 벗어나는 숫자**가 있으면 `IllegalArgumentException` 발생  
   4-2 ) 입력한 값에 **숫자가 아닌 값**이 있으면 `IllegalArgumentException` 발생  
 5. 보너스 번호 입력하기  
